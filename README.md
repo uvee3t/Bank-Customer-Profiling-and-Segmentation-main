@@ -197,7 +197,7 @@ Based on evaluation metrics, clustering using PCA with 3 components is optimal. 
 
 ## RESOURCES
 
-https://www.analyticsvidhya.com/blog/2021/03/customer-profiling-and-segmentation-an-analytical-approach-to-business-strategy-in-retail-banking/
+Author - [Link]www.linkedin.com/in/yuvraj-sharma-87690311a
 
 
 ### 7. KEY LEARNINGS/TAKEAWAYS
